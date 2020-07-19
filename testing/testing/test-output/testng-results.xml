@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="130035" started-at="2020-07-19T10:47:44Z" finished-at="2020-07-19T10:49:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="130035" started-at="2020-07-19T10:47:44Z" finished-at="2020-07-19T10:49:54Z">
+      <class name="testing.demo.RegristrationClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testing.demo.RegristrationClass@27c20538]" name="setUp" is-config="true" duration-ms="14758" started-at="2020-07-19T10:48:11Z" finished-at="2020-07-19T10:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RegristrationFormTest()[pri:0, instance:testing.demo.RegristrationClass@27c20538]" name="RegristrationFormTest" duration-ms="9287" started-at="2020-07-19T10:48:26Z" finished-at="2020-07-19T10:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegristrationFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testing.demo.RegristrationClass@27c20538]" name="tearDown" is-config="true" duration-ms="317" started-at="2020-07-19T10:48:35Z" finished-at="2020-07-19T10:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testing.demo.RegristrationClass -->
+      <class name="testing.demo.LoginClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testing.demo.LoginClass@72d818d1]" name="setUp" is-config="true" duration-ms="13601" started-at="2020-07-19T10:48:35Z" finished-at="2020-07-19T10:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:testing.demo.LoginClass@72d818d1]" name="signInTest" duration-ms="7655" started-at="2020-07-19T10:48:49Z" finished-at="2020-07-19T10:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testing.demo.LoginClass@72d818d1]" name="tearDown" is-config="true" duration-ms="237" started-at="2020-07-19T10:48:57Z" finished-at="2020-07-19T10:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testing.demo.LoginClass -->
+      <class name="testing.demo.SearchClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testing.demo.SearchClass@6e06451e]" name="setUp" is-config="true" duration-ms="23684" started-at="2020-07-19T10:48:57Z" finished-at="2020-07-19T10:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:testing.demo.SearchClass@6e06451e]" name="searchTest" duration-ms="8103" started-at="2020-07-19T10:49:21Z" finished-at="2020-07-19T10:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testing.demo.SearchClass@6e06451e]" name="tearDown" is-config="true" duration-ms="130" started-at="2020-07-19T10:49:29Z" finished-at="2020-07-19T10:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testing.demo.SearchClass -->
+      <class name="testing.demo.VeriyPageClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testing.demo.VeriyPageClass@56ac3a89]" name="setUp" is-config="true" duration-ms="26467" started-at="2020-07-19T10:47:44Z" finished-at="2020-07-19T10:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:testing.demo.VeriyPageClass@56ac3a89]" name="verifyPageTitle" duration-ms="52" started-at="2020-07-19T10:48:11Z" finished-at="2020-07-19T10:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testing.demo.VeriyPageClass@56ac3a89]" name="tearDown" is-config="true" duration-ms="385" started-at="2020-07-19T10:48:11Z" finished-at="2020-07-19T10:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testing.demo.VeriyPageClass -->
+      <class name="testing.demo.AddToCartClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testing.demo.AddToCartClass@59494225]" name="setUp" is-config="true" duration-ms="18881" started-at="2020-07-19T10:49:29Z" finished-at="2020-07-19T10:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addToCartTest()[pri:0, instance:testing.demo.AddToCartClass@59494225]" name="addToCartTest" duration-ms="6408" started-at="2020-07-19T10:49:48Z" finished-at="2020-07-19T10:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+      </class> <!-- testing.demo.AddToCartClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
